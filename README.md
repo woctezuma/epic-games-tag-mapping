@@ -19,6 +19,12 @@ A "tag" is a word or expression attached to a game, as can be seen [on the store
 pip install -r requirements.txt
 ```
 
+## Data source
+
+The file `data/page_mappings.json`:
+- contains the mapping between page slugs and sandbox IDs,
+- was copied from [`woctezuma/epic-games-tracker`][egs-tracker].
+
 ## Usage
 
 To create the mapping by analyzing the joint occurences of tags for each game, run the Python script as follows:
