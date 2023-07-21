@@ -1,6 +1,6 @@
 # Epic Games Tag Mapping
 
-This repository allows to compute an embedding of user tags, based on games on the Epic Games store and their respective tags.
+This repository allows to compute an embedding of user tags, based on games on the Epic Games store.
 
 ![Map of Epic Games tags](https://github.com/woctezuma/epic-games-tag-mapping/wiki/img/cover.png)
 
