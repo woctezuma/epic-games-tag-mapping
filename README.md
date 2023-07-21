@@ -35,6 +35,7 @@ Results are shown [on the Wiki][wiki].
 
 - [Steam Tag Mapping][steam-tag-mapping]
 - A [tracker for ratings and tags][madjoki-egs-ratings] (called "awards" there) on the Epic Games store
+- A [tracker for ratings and achievements][egs-tracker]
 
 <!-- Definitions -->
 
@@ -43,3 +44,4 @@ Results are shown [on the Wiki][wiki].
 [wiki]: <https://github.com/woctezuma/epic-games-tag-mapping/wiki>
 [steam-tag-mapping]: <https://github.com/woctezuma/steam-tag-mapping>
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
+[egs-tracker]: <https://github.com/woctezuma/epic-games-tracker>
