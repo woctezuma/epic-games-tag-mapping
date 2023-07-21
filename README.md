@@ -27,6 +27,12 @@ The file `data/page_mappings.json`:
 
 ## Usage
 
+To download tags to `data/poll_summary.json` and `data/poll_dictionary.json`, run:
+
+```bash
+python download_tags.py
+```
+
 To create the mapping by analyzing the joint occurences of tags for each game, run the Python script as follows:
 
 ```bash
