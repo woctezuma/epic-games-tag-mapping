@@ -1,0 +1,218 @@
+{
+    "15": {
+        "pollDefinitionId": 20,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f5b1.svg",
+        "resultTitle": "Quickly Understood Controls",
+        "resultText": "This game has"
+    },
+    "12": {
+        "pollDefinitionId": 21,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f6c1.svg",
+        "resultTitle": "Relaxing",
+        "resultText": "This game is"
+    },
+    "26": {
+        "pollDefinitionId": 13,
+        "text": "Extremely Fun",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2764.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f60d.svg",
+        "resultTitle": "Extremely Fun",
+        "resultText": "This game is"
+    },
+    "67": {
+        "pollDefinitionId": 2,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f423.svg",
+        "resultTitle": "Great for Beginners",
+        "resultText": "This game is"
+    },
+    "46": {
+        "pollDefinitionId": 8,
+        "text": "Playful",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f388.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f388.svg",
+        "resultTitle": "Playful Visuals",
+        "resultText": "This game has"
+    },
+    "31": {
+        "pollDefinitionId": 11,
+        "text": "Loved them",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2764.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f3ad.svg",
+        "resultTitle": "Amazing Characters",
+        "resultText": "This game has"
+    },
+    "18": {
+        "pollDefinitionId": 9,
+        "text": "Punishing",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2620.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2694.svg",
+        "resultTitle": "Challenging Combat",
+        "resultText": "This game has"
+    },
+    "41": {
+        "pollDefinitionId": 10,
+        "text": "Somewhat likely",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f60a.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f4e2.svg",
+        "resultTitle": "Highly Recommended",
+        "resultText": "This game is"
+    },
+    "37": {
+        "pollDefinitionId": 12,
+        "text": "Liked it",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f60a.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f4dd.svg",
+        "resultTitle": "Amazing Storytelling",
+        "resultText": "This game has"
+    },
+    "63": {
+        "pollDefinitionId": 18,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f3c6.svg",
+        "resultTitle": "Competitive Players",
+        "resultText": "This game has"
+    },
+    "53": {
+        "pollDefinitionId": 7,
+        "text": "Competitive",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f94a.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f94a.svg",
+        "resultTitle": "Competitive Community",
+        "resultText": "This game has a"
+    },
+    "65": {
+        "pollDefinitionId": 1,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f996.svg",
+        "resultTitle": "Great Boss Battles",
+        "resultText": "This game has"
+    },
+    "62": {
+        "pollDefinitionId": 16,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f4da.svg",
+        "resultTitle": "Educational",
+        "resultText": "This game is"
+    },
+    "75": {
+        "pollDefinitionId": 6,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f310.svg",
+        "resultTitle": "Diverse Characters",
+        "resultText": "This game has"
+    },
+    "55": {
+        "pollDefinitionId": 7,
+        "text": "Creative",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f58c.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f58c.svg",
+        "resultTitle": "Creative Community",
+        "resultText": "This game has a"
+    },
+    "47": {
+        "pollDefinitionId": 8,
+        "text": "Unique",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f3c5.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f3c5.svg",
+        "resultTitle": "Unique Visuals",
+        "resultText": "This game has"
+    },
+    "71": {
+        "pollDefinitionId": 4,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/23f1.svg",
+        "resultTitle": "Great for Quick Sessions",
+        "resultText": "This game is"
+    },
+    "61": {
+        "pollDefinitionId": 17,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f3a8.svg",
+        "resultTitle": "Character Customization",
+        "resultText": "This game has Inclusive"
+    },
+    "73": {
+        "pollDefinitionId": 5,
+        "text": "Yes",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2705.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/270f.svg",
+        "resultTitle": "Impact the Story",
+        "resultText": "In this game, your choices"
+    },
+    "2": {
+        "pollDefinitionId": 22,
+        "text": "Very challenging",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2620.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f9e9.svg",
+        "resultTitle": "Challenging Puzzles",
+        "resultText": "This game features"
+    },
+    "20": {
+        "pollDefinitionId": 9,
+        "text": "Easy",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f605.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/2694.svg",
+        "resultTitle": "Easy Combat",
+        "resultText": "This game has"
+    },
+    "44": {
+        "pollDefinitionId": 8,
+        "text": "Beautiful",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f496.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f496.svg",
+        "resultTitle": "Beautiful Visuals",
+        "resultText": "This game has"
+    },
+    "45": {
+        "pollDefinitionId": 8,
+        "text": "Realistic",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f4f8.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f4f8.svg",
+        "resultTitle": "Realistic Visuals",
+        "resultText": "This game has"
+    },
+    "54": {
+        "pollDefinitionId": 7,
+        "text": "Silly",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f61c.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f61c.svg",
+        "resultTitle": "Silly Community",
+        "resultText": "This game has a"
+    },
+    "11": {
+        "pollDefinitionId": 22,
+        "text": "Very easy",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f60c.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f9e9.svg",
+        "resultTitle": "Easy Puzzles",
+        "resultText": "This game features"
+    },
+    "52": {
+        "pollDefinitionId": 7,
+        "text": "Kind",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f495.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f495.svg",
+        "resultTitle": "Kind Community",
+        "resultText": "This game has a"
+    },
+    "74": {
+        "pollDefinitionId": 5,
+        "text": "No",
+        "emoji": "https://cdn2.epicgames.com/static/fonts/joypixel/1f6ab.svg",
+        "resultEmoji": "https://cdn2.epicgames.com/static/fonts/joypixel/270f.svg",
+        "resultTitle": "Don't Impact the Story",
+        "resultText": "In this game, your choices"
+    }
+}
