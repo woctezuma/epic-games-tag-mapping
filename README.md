@@ -37,12 +37,12 @@ To analyze the joint occurences of tags for each game, run:
 python map_tags.py
 ```
 
-To create the mapping of tags, run [`epic_games_tag_mapping.ipynb`][colab-notebook]
+To create a mapping of tags, run [`epic_games_tag_mapping.ipynb`][colab-notebook]
 [![Open In Colab][colab-badge]][colab-notebook]
 
 ## Results
 
-A 2D embedding of tags is obtained by [**U**niform **M**anifold **A**pproximation and **P**rojection][umap-github] (UMAP) with the cosine metric.
+A 2D embedding is obtained by [**U**niform **M**anifold **A**pproximation and **P**rojection][umap-github] (UMAP) with the cosine metric.
 
 ### With the incidence matrix
 
