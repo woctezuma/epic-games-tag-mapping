@@ -1,3 +1,4 @@
 backoff
+matplotlib
 numpy
 requests
