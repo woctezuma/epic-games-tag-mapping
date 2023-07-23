@@ -1,5 +1,5 @@
 from src.data_utils import TAG_LIST_FNAME
-from src.json_utils import save_json
+from src.json_utils import load_json, save_json
 
 
 def sort_tags(tag_dictionary, verbose=True):
@@ -13,3 +13,7 @@ def sort_tags(tag_dictionary, verbose=True):
     save_json(tag_names, TAG_LIST_FNAME, prettify=True)
 
     return tags, tag_names
+
+
+def load_tag_names(fname=TAG_LIST_FNAME):
+    return load_json(fname)
