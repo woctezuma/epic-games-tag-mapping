@@ -39,6 +39,9 @@ To create the mapping by analyzing the joint occurences of tags for each game, r
 python map_tags.py
 ```
 
+Finally, run [`epic_games_tag_mapping.ipynb`][colab-notebook]
+[![Open In Colab][colab-badge]][colab-notebook]
+
 ## Results
 
 Results are shown [on the Wiki][wiki].
@@ -57,3 +60,5 @@ Results are shown [on the Wiki][wiki].
 [steam-tag-mapping]: <https://github.com/woctezuma/steam-tag-mapping>
 [madjoki-egs-ratings]: <https://github.com/nikop/epic-games-ratings>
 [egs-tracker]: <https://github.com/woctezuma/epic-games-tracker>
+[colab-notebook]: <https://colab.research.google.com/github/woctezuma/epic-games-tag-mapping/blob/colab/epic_games_tag_mapping.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
