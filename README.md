@@ -33,13 +33,13 @@ To download tags to `data/poll_summary.json` and `data/poll_dictionary.json`, ru
 python download_tags.py
 ```
 
-To create the mapping by analyzing the joint occurences of tags for each game, run the Python script as follows:
+To analyze the joint occurences of tags for each game, run:
 
 ```bash
 python map_tags.py
 ```
 
-Finally, run [`epic_games_tag_mapping.ipynb`][colab-notebook]
+To create the mapping of tags, run [`epic_games_tag_mapping.ipynb`][colab-notebook]
 [![Open In Colab][colab-badge]][colab-notebook]
 
 ## Results
